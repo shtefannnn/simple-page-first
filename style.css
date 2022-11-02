@@ -28,8 +28,9 @@ div{
 }
 
 
-.nav-text:hover{
+.nav-text:active{
     color: #FE993F;
+    border-bottom: 1px solid #FE993F;
 }
 
 .nav-text:hover{
@@ -96,7 +97,6 @@ main{
 .link:hover{
     color: #FE993F;
     cursor: pointer;
-    text-decoration: underline;
 }
 
 .link:focus{
